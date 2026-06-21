@@ -112,6 +112,7 @@ Current ongoing research exploring:
 - Temporal modeling of biosignals
 - Explainable AI
 - Early disease detection systems
+- EEG-based biomarker discovery
 
 ---
 
