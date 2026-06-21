@@ -143,6 +143,28 @@ Developed a multimodal biosignal-based sleep apnea detection system using:
 
 ---
 
+## Scene Independent Change Detection
+
+### Overview
+
+Developed a research-oriented computer vision pipeline for robust scene-independent change detection and foreground motion segmentation. The project focuses on identifying meaningful scene changes while remaining resilient to variations in illumination, background dynamics, camera viewpoints, and environmental conditions.
+
+The objective was to learn generalized visual representations capable of distinguishing true scene changes from nuisance factors, enabling reliable deployment across previously unseen environments.
+
+### Highlights
+
+- Developed a deep learning pipeline for robust foreground change detection
+- Designed temporal feature extraction and attention-based modeling
+- Implemented ResNet18 encoder-decoder architecture
+- Incorporated edge-aware supervision for sharper change localization
+- Explored self-supervised learning strategies to reduce annotation dependency
+
+### Technologies
+
+`Python` `PyTorch` `OpenCV` `Deep Learning` `Computer Vision` `ResNet18` `Temporal Attention` `Self-Supervised Learning`
+
+---
+
 ## Sentinel-2 Land Cover Classification
 
 End-to-end Earth Observation pipeline for satellite imagery analysis.
@@ -175,19 +197,7 @@ Developed an autonomous navigation agent capable of learning directly from visua
 
 ---
 
-## Scene Independent Change Detection
 
-Research-oriented computer vision pipeline for foreground motion segmentation.
-
-### Highlights
-
-- Temporal differencing
-- Encoder-decoder architectures
-- ResNet backbone
-- Temporal attention mechanisms
-- Self-supervised learning
-
----
 
 # Technical Skills
 
