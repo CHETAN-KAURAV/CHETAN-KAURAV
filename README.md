@@ -1,158 +1,294 @@
 <div align="center">
 
-# Hi 👋, I'm Chetan Kaurav
+# Hi, I'm Chetan Kaurav
 
-### AI Researcher • Machine Learning Engineer • Computer Vision Developer
+### B.Tech CSE Student | AI/ML Research Enthusiast | Computer Vision & Healthcare AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Researcher;Machine+Learning+Engineer;Computer+Vision+Developer;Deep+Learning+Enthusiast;Building+AI+for+Real-World+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+%26+Deep+Learning;Computer+Vision+Research;Healthcare+AI+%26+Physiological+Signal+Analysis;Geospatial+Machine+Learning;Building+AI+for+Scientific+Applications" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a Computer Science undergraduate passionate about building intelligent systems that solve real-world problems.
+I am a Computer Science undergraduate passionate about applying Artificial Intelligence to scientific and real-world problems.
 
-My work spans across:
+My primary interests lie at the intersection of:
 
-🧠 Artificial Intelligence  
-🤖 Machine Learning  
-👁️ Computer Vision  
-📊 Deep Learning  
-🌍 Geospatial AI  
-📈 Financial NLP  
-🏥 Healthcare AI
+- Computer Vision
+- Healthcare AI
+- Physiological Signal Analysis
+- Geospatial Machine Learning
+- Deep Learning for Scientific Applications
 
-Currently, I'm exploring advanced machine learning architectures, multimodal AI systems, reinforcement learning, and interpretable deep learning models.
+I enjoy building machine learning systems, conducting applied research, and exploring how data-driven methods can contribute to healthcare, environmental sciences, and intelligent perception systems.
 
 ---
 
-## 🔬 Research Experience
-
-### 🏛 IISER Mohali — Summer Research Intern
-
-Worked on **Geospatial Machine Learning for Flood Risk Prediction** using heterogeneous environmental datasets.
-
-- Developed hybrid ML models using Random Forest, XGBoost, and SVM
-- Designed terrain-aware spatial feature engineering pipelines
-- Built spatial cross-validation strategies for robust model evaluation
-- Reduced critical-region misclassification below 5%
-- Worked with GeoPandas, GDAL, ArcGIS Pro, QGIS, and Scikit-Learn
-
----
-
-## 📚 Publications & Research
-
-### 📝 Decoding Financial Sentiments: A Comparative Analysis of Machine Learning Models
-
-Presented at **ISCMCTR 2025** and accepted for publication in **MITS Journal 2026**.
-
-### 🏥 AI for Early Chronic Disease Detection
-
-Ongoing research focused on:
-
-- Multimodal physiological signal analysis
-- Explainable AI
-- Temporal deep learning models
-- EEG-based biomarker discovery
-
----
-
-## 🛠 Tech Arsenal
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### Machine Learning & AI
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Vision-Based Autonomous Navigation using Deep Reinforcement Learning
-
-Built a CNN-DQN agent capable of autonomous navigation using visual observations.
-
-**Highlights**
-- Deep Q Networks (DQN)
-- Experience Replay
-- Target Networks
-- End-to-End Perception to Action Learning
-- Achieved reward score of 0.93
-
----
-
-### 👁 Scene Independent Change Detection
-
-Deep learning pipeline for foreground motion segmentation using explicit temporal differencing.
-
-**Highlights**
-- ResNet18 Encoder-Decoder
-- Temporal Attention
-- Self-Supervised Learning
-- Edge-Aware Supervision
-- Computer Vision Research Pipeline
-
----
-
-### 🌍 Sentinel-2 Land Cover Classification
-
-End-to-end Earth Observation and Remote Sensing pipeline.
-
-**Highlights**
-- Satellite Image Processing
-- Spatial Feature Engineering
-- ResNet-based Classification
-- 87% Classification Accuracy
-
----
-
-## 🎯 Current Focus
+## Research Interests
 
 ```python
-current_focus = {
-    "Research": [
-        "Multimodal AI",
-        "Computer Vision",
+research_interests = {
+    "Healthcare AI": [
+        "Physiological Signal Analysis",
         "Medical AI",
-        "Explainable AI"
+        "Multimodal Learning"
     ],
 
-    "Learning": [
-        "LLMs",
-        "Advanced Deep Learning",
-        "MLOps",
-        "AI Systems Design"
+    "Computer Vision": [
+        "Image Classification",
+        "Scene Understanding",
+        "Representation Learning"
     ],
 
-    "Building": [
-        "Research Projects",
-        "Open Source Contributions",
-        "Production ML Systems"
+    "Scientific AI": [
+        "Geospatial Machine Learning",
+        "Remote Sensing",
+        "Environmental Modeling"
+    ],
+
+    "Emerging Interests": [
+        "EEG Analysis",
+        "Neuroimaging",
+        "Brain Signal Processing"
     ]
 }
 ```
 
 ---
 
-## 📊 GitHub Analytics
+# Research Experience
+
+## IISER Mohali — Summer Research Intern
+
+**Department of Earth & Environmental Sciences**
+
+Worked on machine learning approaches for environmental risk assessment using heterogeneous geospatial datasets.
+
+### Key Contributions
+
+- Developed hybrid ML pipelines using Random Forest, XGBoost, and SVM
+- Performed terrain-aware spatial feature engineering
+- Designed spatial cross-validation strategies
+- Worked with large-scale environmental datasets
+- Utilized GeoPandas, GDAL, ArcGIS Pro, QGIS, and Scikit-Learn
+- Reduced critical-region misclassification below 5%
+
+### Tools & Technologies
+
+`Python` `GeoPandas` `GDAL` `QGIS` `ArcGIS Pro` `Scikit-Learn`
+
+---
+
+# Publications & Ongoing Research
+
+## Decoding Financial Sentiments: A Comparative Analysis of Machine Learning Models
+
+- Presented at ISCMCTR 2025
+- Accepted for publication in MITS Journal 2026
+
+### Research Focus
+
+Comparison of:
+
+- Logistic Regression
+- SVM
+- Random Forest
+- LSTM
+- BERT
+- RoBERTa
+
+for financial sentiment analysis tasks.
+
+---
+
+## AI for Early Chronic Disease Detection
+
+Current ongoing research exploring:
+
+- Multimodal physiological signal analysis
+- Deep learning for healthcare
+- Temporal modeling of biosignals
+- Explainable AI
+- Early disease detection systems
+
+---
+
+# Featured Projects
+
+## Physiological Signal Analysis: Sleep Apnea Detection
+
+### Overview
+
+Developed a multimodal biosignal-based sleep apnea detection system using:
+
+- Airflow signals
+- Thoracic movement signals
+- SpO₂ measurements
+
+### Highlights
+
+- Implemented 1D-CNN models
+- Developed Conv-LSTM architectures
+- Subject-wise LOPO validation
+- Achieved 85% accuracy
+- Achieved 88% sensitivity
+- Extended toward sleep stage classification
+
+### Technologies
+
+`Python` `PyTorch` `TensorFlow` `Deep Learning`
+
+---
+
+## Sentinel-2 Land Cover Classification
+
+End-to-end Earth Observation pipeline for satellite imagery analysis.
+
+### Highlights
+
+- Satellite image processing
+- Spatial feature engineering
+- Coordinate transformation pipelines
+- ResNet-based classification
+- Achieved 87% classification accuracy
+
+### Technologies
+
+`Python` `Remote Sensing` `Deep Learning` `Computer Vision`
+
+---
+
+## Vision-Based Autonomous Navigation using Deep Reinforcement Learning
+
+Developed an autonomous navigation agent capable of learning directly from visual observations.
+
+### Highlights
+
+- Deep Q Networks (DQN)
+- Experience Replay
+- Target Networks
+- End-to-End Learning
+- Reinforcement Learning
+
+---
+
+## Scene Independent Change Detection
+
+Research-oriented computer vision pipeline for foreground motion segmentation.
+
+### Highlights
+
+- Temporal differencing
+- Encoder-decoder architectures
+- ResNet backbone
+- Temporal attention mechanisms
+- Self-supervised learning
+
+---
+
+# Technical Skills
+
+## Programming
+
+- Python
+- C
+- C++
+- SQL
+- MATLAB
+
+---
+
+## Machine Learning & Deep Learning
+
+- PyTorch
+- TensorFlow
+- Keras
+- Scikit-Learn
+- OpenCV
+
+---
+
+## Data Science & Signal Processing
+
+- Time-Series Analysis
+- Feature Engineering
+- Physiological Signal Modeling
+- Frequency Domain Analysis
+- Digital Signal Processing
+- Multimodal Data Fusion
+
+---
+
+## Geospatial Technologies
+
+- GeoPandas
+- GDAL
+- QGIS
+- ArcGIS Pro
+- Raster Processing
+- Spatial Analytics
+
+---
+
+## Tools
+
+- Git
+- Docker
+- Jupyter Notebook
+- Linux
+- Google Colab
+- LaTeX
+
+---
+
+# Certifications
+
+- Oracle Cloud Infrastructure Generative AI Professional
+- Machine Learning with TensorFlow (Infosys Springboard)
+- Python Certification (IIT Bombay Spoken Tutorial)
+
+---
+
+# Achievements
+
+- Summer Research Intern — IISER Mohali
+- Research Paper Presented at ISCMCTR 2025
+- Publication Accepted — MITS Journal 2026
+- Finalist — AI Hackathon, IIT Kharagpur
+- Finalist — NLP Hackathon, IIT Kharagpur
+- Finalist — Finance AI Hackathon, IIT Kanpur
+
+---
+
+# Current Focus
+
+```python
+currently_working_on = {
+    "Research": [
+        "Healthcare AI",
+        "Physiological Signal Analysis",
+        "Computer Vision"
+    ],
+
+    "Learning": [
+        "Neuroimaging Fundamentals",
+        "EEG Analysis",
+        "Advanced Deep Learning"
+    ],
+
+    "Building": [
+        "Research Projects",
+        "Open Source Contributions",
+        "Applied AI Systems"
+    ]
+}
+```
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
@@ -164,7 +300,7 @@ current_focus = {
 
 ---
 
-## 🔥 Contribution Streak
+# Contribution Streak
 
 <div align="center">
 
@@ -174,25 +310,10 @@ current_focus = {
 
 ---
 
-## 🏆 Achievements
-
-🥇 Research Intern @ IISER Mohali
-
-📖 Research Publication Accepted (MITS Journal 2026)
-
-🏁 Finalist — AI Hackathon IIT Kharagpur
-
-🏁 Finalist — NLP Hackathon IIT Kharagpur
-
-🏁 Finalist — Finance AI Hackathon IIT Kanpur
-
-🎓 Oracle Generative AI Professional Certified
-
----
-
-## 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/chetankaurav">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -204,13 +325,14 @@ current_focus = {
 <a href="https://github.com/CHETAN-KAURAV">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### "Building AI that doesn't just predict the future — but helps shape it."
+### Interested in building reliable AI systems for scientific and real-world applications.
 
 <img src="https://komarev.com/ghpvc/?username=CHETAN-KAURAV&label=Profile%20Views&color=0e75b6&style=flat"/>
 
